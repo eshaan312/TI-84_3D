@@ -5,6 +5,6 @@
 - Run as TI-Basic program
 - You now have a 0.03 FPS 3D animation on your TI-84 calculator!
 # Video
-[![embed](https://th.bing.com/th/id/R.f16730bed923720f2d8b374ea33cfc6b?rik=e9uq4DF9F2OgCQ&pid=ImgRaw&r=0)](https://raw.githubusercontent.com/eshaan312/TI-84_3D/refs/heads/main/small-cube-render.mov)
+![gif](https://raw.githubusercontent.com/eshaan312/TI-84_3D/refs/heads/main/small-cube-render.gif)
 # Credits
 Written by Eshaan!
